@@ -68,3 +68,4 @@ try:
     print(f"Result: {javab3}")
 except ValueError as l:
     print(l)
+    #تمرین با استفاده از ابزار هوش مصنوعی چت جی پی تی نوشته شده است
